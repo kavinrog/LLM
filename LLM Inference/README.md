@@ -1,9 +1,6 @@
 # AdaDecode ✨
 
 **Faster Large Language Model (LLM) Decoding using Adaptive Layer Parallelism**
-
-![Paper](https://arxiv.org/pdf/2506.03700)
-
 ---
 
 ## 🚀 What is AdaDecode?
