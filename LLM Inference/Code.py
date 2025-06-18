@@ -1,5 +1,3 @@
-# Simplified AdaDecode-style token decoding logic (mock-up)
-# Note: This is illustrative; real implementations depend on your LLM backend
 import torch
 from transformers import AutoModelForCausalLM, AutoTokenizer
 
@@ -48,3 +46,6 @@ class AdaDecode:
                 break
 
         return decoded
+
+
+
